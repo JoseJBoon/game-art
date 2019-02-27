@@ -1,3 +1,12 @@
 ---
 layout: default
 ---
+
+<article>
+    {% for assignment in site.data.assignments %}
+        <section>
+            <h4>{{ assignment.title }}</h4>
+            <img src="{{ site.baseurl }}{{ assignment.image }}" />
+        </section>
+    {% endfor %}
+</article>
