@@ -3,10 +3,15 @@ layout: default
 ---
 
 <article>
-    {% for assignment in site.data.assignments %}
+    {% for assignment in site.data.assignments %} 
         <section>
-            <h4>{{ assignment.title }}</h4>
-            <img src="{{ site.baseurl }}{{ assignment.image }}" />
+            {% if assignment.e-id == 5%}
+                {{ assignment.pinterest }}
+                {{ assignment.script }}
+            {% else %}
+                <h4>{{ assignment.title }}</h4>
+                <img src="{{ site.baseurl }}{{ assignment.image }}" />
+            {% endif %}
         </section>
     {% endfor %}
 </article>

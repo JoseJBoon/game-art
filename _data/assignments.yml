@@ -1,11 +1,16 @@
-- title: Exercise 1A
+- title: Exercise 1
   image: /assets/images/practice_assignment_1A.png
 
-- title: Exercise 1B
+- title: Exercise 2
   image: /assets/images/practice_assignment_1B.png
 
-- title: Exercise 2
+- title: Exercise 3
   image: /assets/images/practice_assignment_2.png
 
 - title: Exercise 4
   image: /assets/images/practice_assignment_4.png
+
+- title: Exercise 5
+  e-id: 5 # Special exception needed
+  pinterest: <a data-pin-do="embedBoard" data-pin-board-width="492" data-pin-scale-height="320" data-pin-scale-width="80" href="https://www.pinterest.co.uk/josejboon/characters/"></a>
+  script: <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
