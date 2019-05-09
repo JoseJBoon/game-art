@@ -3,13 +3,14 @@ layout: default
 ---
 
 <article>
+    <a href="{{ site.baseurl }}/exercises">Opdrachten</a>
     {% for assignment in site.data.assignments %} 
         <section>
-            {% if assignment.e-id == 5%}
+            <h4>{{ assignment.title }}</h4>
+            {% if assignment.pint == true %}
                 {{ assignment.pinterest }}
                 {{ assignment.script }}
             {% else %}
-                <h4>{{ assignment.title }}</h4>
                 <img src="{{ site.baseurl }}{{ assignment.image }}" />
             {% endif %}
         </section>

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+    <a href="{{ site.baseurl }}/">Oefeningen</a>
+
+    {% for exercises in site.data.exercises %} 
+        <section>
+            <h4>{{ exercises.title }}</h4>
+            {% if exercises.md-file == 1 %}
+                <a href="{{ site.baseurl }}{{ exercises.md-link }}">{{ exercises.doc-name }}</a>
+            {% else %}
+                <img src="{{ site.baseurl }}{{ exercises.image }}" />
+            {% endif %}
+        </section>
+    {% endfor %}
+</article>

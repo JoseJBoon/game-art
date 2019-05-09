@@ -11,6 +11,67 @@
   image: /assets/images/practice_assignment_4.png
 
 - title: Exercise 5
-  e-id: 5 # Special exception needed
-  pinterest: <a data-pin-do="embedBoard" data-pin-board-width="492" data-pin-scale-height="320" data-pin-scale-width="80" href="https://www.pinterest.co.uk/josejboon/characters/"></a>
+  pint: true # Special exception needed
+  pinterest: <a data-pin-do="embedBoard" data-pin-board-width="492" data-pin-scale-height="320" data-pin-scale-width="80" href="https://www.pinterest.co.uk/josejboon/character-in-world/characters/"></a>
   script: <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+- title: Exercise 6
+  image: /assets/images/assignment_6.jpg
+
+- title: Exercise 7
+  image: /assets/images/assignment_7.jpg
+
+- title: Exercise 8
+  image: /assets/images/assignment_8.jpg
+
+- title: Exercise 9 A
+  pint: true # Special exception needed
+  pinterest: <a data-pin-do="embedBoard" data-pin-board-width="492" data-pin-scale-height="320" data-pin-scale-width="80" href="https://www.pinterest.co.uk/josejboon/character-in-world/world/"></a>
+  script: <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+- title: Exercise 9 B
+  pint: true # Special exception needed
+  pinterest: <a data-pin-do="embedBoard" data-pin-board-width="492" data-pin-scale-height="320" data-pin-scale-width="80" href="https://www.pinterest.co.uk/josejboon/character-in-world/characters/"></a>
+  script: <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+- title: Exercise 9 C
+  image: /assets/images/exercise_9c.png
+
+- title: Exercise 10
+  image: /assets/images/exercise_10.jpg
+
+- title: Exercise 11
+  image: /assets/images/exercise_11.jpg
+
+- title: Exercise 12
+  image: /assets/images/exercise_12.jpg
+
+- title: Exercise 13
+  image: /assets/images/exercise_13.png
+
+- title: Exercise 15
+  image: /assets/images/exercise_15.jpg
+
+- title: Exercise 16
+  image: /assets/images/exercise_16.png
+
+- title: Exercise 17
+  image: /assets/images/exercise_17.jpg
+
+- title: Exercise 18
+  image: /assets/images/exercise_18.jpg
+
+- title: Exercise 19
+  image: /assets/images/exercise_19.jpg
+
+- title: Exercise 20
+  image: /assets/images/exercise_20.jpg
+
+- title: Exercise 21
+  image: /assets/images/exercise_21.jpg
+
+- title: Exercise 22
+  image: /assets/images/exercise_22.jpg
+
+- title: Exercise 23
+  image: /assets/images/exercise_23.png

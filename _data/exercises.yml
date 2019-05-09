@@ -1,0 +1,24 @@
+- title: Assignment 1
+  md-file: 1 # markdown
+  doc-name: Character Background
+  md-link: /CharacterBackground.html
+
+- title: Assignment 2
+  md-file: 1 # markdown
+  doc-name: Game World Dimension
+  md-link: /GameworldDimension.html
+
+- title: Assignment 3
+  image: /assets/images/assignment_3.png
+
+- title: Assignment 4
+  image: /assets/images/assignment_4.png
+
+- title: Assignment 5
+  image: /assets/images/assignment_5.jpg
+
+- title: Assignment 7
+  image: /assets/images/assignment_7.png
+
+- title: Assignment 8 - Box Cover
+  image: /assets/images/exercise_8.jpg
